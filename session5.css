@@ -1,0 +1,239 @@
+.body {
+    width: 320px;
+    height: 570px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f2f4f6;
+}
+.top {
+    height: 54px;
+    width: 320px;
+    padding: 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+.toss {
+    height: 25px;
+    width: 80px;
+}
+.icons {
+    display: flex;
+    align-items: center;
+}
+.icon1 {
+    height: 25px;
+    width: 20px;
+    margin-right:5px;
+}
+.icon2 {
+    height: 27px;
+    width: 25px;
+    margin-left: 10px;
+}
+.bank {
+    height: 100px;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bankbox {
+    width: 270px;
+    height: 80px;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.topbox {
+    display: flex;
+    justify-content: space-between;
+}
+.tossbank {
+    font-weight: bold;
+    font-size: larger;
+}
+.arrow {
+    height: 15px;
+}
+.bottom {
+    padding-top: 10px;
+    padding-left: 7px;
+    display: flex;
+    align-items: center;
+}
+.calendar {
+    height: 25px;
+    margin-right: 10px;
+}
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.smalltop {
+    font-size: 0.6em;
+    color: gray;
+    font-weight: bold;
+}
+.smallbottom {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.asset {
+    height: 302px;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.assetbox {
+    width: 270px;
+    height: 262px;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.first {
+    height: 44px;
+}
+.assets {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.second {
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icons {
+    display: flex;
+    align-items: flex-start;
+}
+.hanabank {
+    height: 30px;
+}
+.student {
+    margin-left: 5px;
+    font-size: 0.8em;
+}
+.send {
+    height: 23px;
+    width: 50px;
+    background-color: #f2f4f6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sendmoney {
+    font-size: 0.8em;
+}
+.third {
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tossbank {
+    height: 30px;
+}
+.tossbanking {
+    margin-left: 5px;
+    font-size: 0.8em;
+}
+.fourth {
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.uribank {
+    height: 30px;
+}
+.uribanking {
+    margin-left: 5px;
+    font-size: 0.8em;
+}
+.fifth {
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.naverbank {
+    height: 30px;
+}
+.naverbanking {
+    margin-left: 5px;
+    font-size: 0.8em;
+}
+.sixth {
+    height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shinhanbank {
+    height: 30px;
+}
+.shinhanbanking {
+    margin-left: 5px;
+    font-size: 0.8em;
+}
+.spend {
+    height: 60px;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spendbox {
+    width: 270px;
+    height: 50px;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+}
+.spending {
+    font-weight: bold;
+    font-size: larger;
+}
+.home {
+    height: 54px;
+    width: 320px;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.topbox {
+    display: flex;
+    align-items: center;
+}
+.bottomicon {
+    height: 25px;
+    margin-right: 10px;
+}
+.bottombox {
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    justify-content:space-between;
+}
+.bottomtext {
+    font-size: small;
+}
